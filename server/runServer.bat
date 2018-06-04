@@ -1,0 +1,1 @@
+java -jar -server SerArmy2.jar
